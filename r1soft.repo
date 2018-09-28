@@ -1,0 +1,5 @@
+[r1soft]
+name=R1Soft Repository Server
+baseurl=http://mirrors.service.networklayer.com/r1soft/yum/stable/$basearch/
+enabled=1
+gpgcheck=0
